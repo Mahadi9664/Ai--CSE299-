@@ -1,0 +1,30 @@
+================================================================================
+ACT INDEX: 222
+ACT TITLE: The Standard Time (Interpretation of References) Ordinance, 1943
+ACT NO: VI
+ACT YEAR: 1943
+================================================================================
+
+GOVERNMENT CONTEXT:
+  - Government System: British Colonial Rule
+  - Head of Government: Sir John Arthur Herbert
+  - Designation: Governor of Bengal Province
+  - Period: 1939-1943
+
+LEGAL SYSTEM CONTEXT:
+  - Period: British Crown Rule (1858-1947)
+  - Primary Laws: Government of India Act 1858, Indian Penal Code 1860, Code of Civil Procedure 1908, Evidence Act 1872
+  - Court System: High Courts (1861), District Courts, Magistrate Courts
+
+SECTIONS:
+--------------------------------------------------------------------------------
+
+Section 1:
+1. (1) This Ordinance may be called theStandard Time (Interpretation of References) Ordinance, 1943.(2) It shall come into force at once.
+
+
+Section 2:
+2.  While any order of the Government is in force fixing Standard Time by reference to Greenwich Mean Time as being in advance of Greenwich Mean Time by an interval other than five and one half hours, any reference in any enactment in force in Bangladesh to Standard Time shall, notwithstanding that such reference may define Standard Time as being five and one half hours in advance of Greenwich Mean Time, be interpreted as a reference to Standard Time as fixed for the time being by the order of the Government.
+
+================================================================================
+================================================================================
